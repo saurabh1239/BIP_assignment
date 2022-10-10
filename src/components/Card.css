@@ -1,0 +1,11 @@
+.card-main{
+    height: 100%;
+}
+.cardContent{
+    display: flex;
+    justify-content: space-between;
+}
+typography1{
+    display: flex;
+    flex-wrap: wrap;
+}

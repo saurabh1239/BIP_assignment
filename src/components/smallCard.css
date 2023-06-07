@@ -1,0 +1,12 @@
+.smallcard {
+    display: flex;
+    flex-direction: column;
+    width: 10em;
+    height: 12em;
+    color: white;
+    background-color: transparent;
+}
+
+.small-image {
+    object-fit: contain ;
+}

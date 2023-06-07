@@ -1,8 +1,13 @@
 import React from 'react'
+import "../App.css"
 
 const ErrorPage = () => {
   return (
-    <div style={{align:"center"}}>Page not Found</div>
+    <div className='errorPage'>
+      <h1>
+        Please reload you have ran into an error
+      </h1>
+    </div>
   )
 }
 
